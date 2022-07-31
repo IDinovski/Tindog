@@ -1,0 +1,17 @@
+body{
+    background-color: #D3EBCD;
+}
+hr{
+    border-color: #D3EBCD;
+    border-top: 10px dotted;
+    width: 10%;
+}
+img{
+    height: 150px;
+}
+img:hover{
+    height: 180px;
+}
+#photo1{
+    border-radius: 100%;
+}
